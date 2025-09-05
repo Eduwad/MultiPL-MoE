@@ -2,7 +2,7 @@
 
 MultiPL-MoE
 ===========================
-This repository contains the code for our EMNLP 2025 Paper: [MultiPL-MoE: Multi-Programming-Lingual Extension of Large Language Models through Hybrid Mixture-of-Experts](https://github.com/Eduwad/MultiPL-MoE).  <!-- 修改链接 -->
+This repository contains the code for our EMNLP 2025 Paper: [MultiPL-MoE: Multi-Programming-Lingual Extension of Large Language Models through Hybrid Mixture-of-Experts](https://arxiv.org/abs/2508.19268).  <!-- 修改链接 -->
 
 <div align="left">
 
@@ -35,5 +35,10 @@ bash MultiPL-MoE/scripts/cm_sparse.sh
 ## Citation
 If you find this work useful, please consider citing:
 <pre>
-....
+@article{wang2025multipl,
+  title={MultiPL-MoE: Multi-Programming-Lingual Extension of Large Language Models through Hybrid Mixture-of-Experts},
+  author={Wang, Qing and Han, Xue and Wang, Jiahui and Xing, Lehao and Hu, Qian and Zhang, Lianlian and Deng, Chao and Feng, Junlan},
+  journal={arXiv preprint arXiv:2508.19268},
+  year={2025}
+}
 </pre>
